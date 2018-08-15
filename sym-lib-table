@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name MySymbols)(type Legacy)(uri /home/arseni/kicad_projects/libs/symbols/MySymbols.lib)(options "")(descr ""))
+  (lib (name kicad_user_symbols)(type Legacy)(uri ${KIPRJMOD}/kicad_user_libs/kicad_user_symbols/kicad_user_symbols.lib)(options "")(descr ""))
   (lib (name scanner_driver-rescue)(type Legacy)(uri ${KIPRJMOD}/scanner_driver-rescue.lib)(options "")(descr ""))
 )
