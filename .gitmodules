@@ -1,0 +1,3 @@
+[submodule "kicad_user_libs"]
+	path = kicad_user_libs
+	url = https://github.com/ArseniSoitu/kicad_user_libs.git
